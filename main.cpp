@@ -27,15 +27,7 @@ int main(int argc, char** argv) {
     cout<<"Salut Depuntis"<<endl;
     cout<<"123"<<endl;
     cout<<"texte de flo"<<endl;     
-
-
-    cout<<"Bonjour"<<endl; 
-    cout<<"Second texte"<<endl; 
-    cout<<"Troisième texte"<<endl; 
-    cout<<"quatrieme texte"<<endl; 
-   cout<<"5 texte"<<endl;
-   cout<<"potager"<<endl;
-
+    cout<<"ajout texte sur doc glaunec"<<endl; 
     return 0;
 }
 
