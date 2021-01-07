@@ -22,6 +22,8 @@ int main(int argc, char** argv) {
     cout<<"Bonjour"<<endl;
     cout<<"patate"<<endl;
     cout<<"Salut Depuntis"<<endl;
+    cout<<"123"<<endl;
+            
 
     return 0;
 }
