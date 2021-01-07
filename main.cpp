@@ -23,7 +23,8 @@ int main(int argc, char** argv) {
     cout<<"Second texte"<<endl; 
     cout<<"Troisième texte"<<endl; 
     cout<<"quatrieme texte"<<endl; 
-   cout<<"5 texte"<<endl; 
+   cout<<"5 texte"<<endl;
+   cout<<"potager"<<endl;
     return 0;
 }
 
