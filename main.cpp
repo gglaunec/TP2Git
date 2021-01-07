@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     cout<<"Bonjour"<<endl; 
     cout<<"Second texte"<<endl; 
     cout<<"Troisième texte"<<endl; 
+    cout<<"quatrieme texte"<<endl; 
     return 0;
 }
 
