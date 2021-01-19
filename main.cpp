@@ -27,7 +27,8 @@ int main(int argc, char** argv) {
     cout<<"Salut Depuntis"<<endl;
     cout<<"123"<<endl;
     cout<<"texte de flo"<<endl;     
-    cout<<"ajout texte sur doc glaunec"<<endl; 
+    cout<<"ajout texte sur doc glaunec"<<endl;
+    cout<<"Fin de TP"<<endl;
     return 0;
 }
 
